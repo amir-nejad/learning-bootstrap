@@ -1,0 +1,57 @@
+.col-12 {
+    background-color: #66b2ff; /* Light Blue */
+ }
+
+ .col-9, .col-lg-9, .col-sm-9 {
+    background-color: #ff6666; /* Light Red */
+ }
+
+ .col-8, .col-lg-8 {
+    background-color: #cc99ff; /* Light Purple */
+ }
+
+ .col-6, .col-md-6, .col-sm-6 {
+    background-color: #99ff99; /* Light Green */
+ }
+
+ .col-4 {
+    background-color: #ffcc99; /* Light Orange */
+ }
+
+ .col-3, .col-sm-3 {
+    background-color: #ffb3b3; /* Light Red */
+ }
+
+ .col-2 {
+    background-color: #ffdb4d; /* Light Yellow */
+ }
+
+ .col-1 {
+    background-color: #c2c2d6; /* Light Purple */
+ }
+
+ .col {
+    background-color: aqua; /* Aqua */
+ }
+
+ .col,
+ .col-1,
+ .col-2,
+ .col-3,
+ .col-4,
+ .col-6,
+ .col-8,
+ .col-9,
+ .col-12,
+ .col-lg-8,
+ .col-lg-9,
+ .col-md-6,
+ .col-sm-3 {
+   text-align: center;
+   height: 100px;
+   border: 1px solid;
+ }
+
+ body {
+    padding: 0.9rem;
+ }
