@@ -24,5 +24,6 @@
 - Session 15: Best Practices & Community
 
 
-Amirhossein Shabaninejad
-2024 Bootstrap (v5.3.x) Course
+Amirhossein Shabaninejad (Amir Nejad)
+2024 Bootstrap (v5.3.x) Course on YouTube
+https://youtube.com/playlist?list=PLUcyzFpP8-i6qEEGOkv68lR1FM6CKlsin&si=HA_JjRW0AiXbtw9R
