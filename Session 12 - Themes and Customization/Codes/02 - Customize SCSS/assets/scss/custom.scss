@@ -1,0 +1,32 @@
+// @import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+// .btn-primary {
+//     background-color: yellow;
+//     color: black;
+// }
+
+@import "../../node_modules/bootstrap/scss/functions";
+
+// Default variable overrides
+$body-bg: #000;
+$body-color: #111;
+
+$primary: yellow;
+
+$theme-colors: (
+    "primary": $primary
+);
+
+// Required
+@import "../../node_modules/bootstrap/scss/variables";
+@import "../../node_modules/bootstrap/scss/variables-dark";
+@import "../../node_modules/bootstrap/scss/maps";
+@import "../../node_modules/bootstrap/scss/mixins";
+@import "../../node_modules/bootstrap/scss/root";
+
+// Optional Bootstrap components here
+@import "../../node_modules/bootstrap/scss/reboot";
+@import "../../node_modules/bootstrap/scss/type";
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
